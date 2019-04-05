@@ -1,0 +1,112 @@
+
+
+Security Building Blocks
+    authentication
+        know who
+        uniquely identify
+            associate with the correct account
+        clients
+        Identity 
+    authorization
+        know what they can do
+        what resources
+            what actions 
+        priviledges
+            read
+            read/write
+            transfer money in an app
+        
+    auditing
+        audit trail
+        did the user actually perform the action? 
+        very important
+        non-repudiation
+            where someone cannot claim an 
+            action hasn't been taken
+
+    Confidentiality: 
+        is the data safe
+        unauthorized users access? 
+        AccessControlList (ACLs)
+    Integrity: 
+        safe from unauthorized users 
+        can data only be modified by authorized users? 
+        unAuthorized changes
+        Hashing
+    Availability
+        does the system work for legitimate users? 
+        crashing the system 
+        Denial Of Service
+            where the system can't handle intended actions 
+        
+
+---------------------------------------
+Video3
+Security & its building Blocks 
+
+Risk/Exposure: 
+    likelihood of being attacked and of the attack 
+    surface area
+    what is shown to the outside world
+    more APIs the more Vulnerable
+Threat
+    occurrence that can harm your system 
+    threat is not always intentional
+Vulnerablility
+    weakness, 
+    insecure 3rd party code 
+Attack 
+    action which inacts a threat to exploit a vulnerability 
+
+
+- - - - - -
+What causes Security Vulnerabilities? 
+    1. Poorly written code
+    2. The size & complexity of your app 
+    3. Web Servers are inherently complex and have their own weaknesses
+    4. Database Servers: 
+        other systems
+        further surface area 
+    5. Sites have increasing complex interactions with users, with special permissions. 
+    6. Lineage of Code 
+
+- - - - - - - 
+Known & Unknown Vulnerabilities: 
+    few hackers find their own vulnerabilities 
+    Most Vulnerabilities are: 
+        Known: 
+            copy-cats spread the awareness of the risk 
+
+- - - - - - -
+What do you secure? 
+    Network
+    Host
+    Application
+        this class 
+        things we can do as a developer 
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

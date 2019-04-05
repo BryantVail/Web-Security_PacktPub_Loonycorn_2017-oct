@@ -1,0 +1,46 @@
+
+
+Cross Site Scripting
+    XSS
+    Code Injection attack
+    malicious javascript in another user's browser
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
